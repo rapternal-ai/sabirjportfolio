@@ -212,6 +212,7 @@ h3 {
   padding: 34px 0 10px;
   border-top: 1px solid var(--line);
   scroll-margin-top: 96px;
+  margin-bottom: 100px;
 }
 
 .case-study-header {
