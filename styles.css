@@ -178,7 +178,7 @@ h3 {
 }
 
 .hero-card span {
-  padding: 18px 0;
+  padding: 18px 0 18px 20px;
   border-bottom: 1px solid var(--line);
   color: var(--smoke);
   font-weight: 700;
